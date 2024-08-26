@@ -1,0 +1,1183 @@
+{
+  "data": [
+    {
+      "id": "CHN",
+      "name": "China",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHN.png",
+      "total_medals": 77,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Table Tennis", "gold": 15, "silver": 8, "bronze": 4 },
+            { "name": "Badminton", "gold": 5, "silver": 4, "bronze": 3 },
+            { "name": "Gymnastics", "gold": 7, "silver": 5, "bronze": 4 },
+            { "name": "Diving", "gold": 10, "silver": 6, "bronze": 4 }
+          ],
+          "total": { "gold": 37, "silver": 23, "bronze": 15 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Table Tennis", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Badminton", "gold": 1, "silver": 1, "bronze": 0 },
+            { "name": "Diving", "gold": 3, "silver": 1, "bronze": 1 }
+          ],
+          "total": { "gold": 6, "silver": 3, "bronze": 2 }
+        }
+      }
+    },
+    {
+      "id": "USA",
+      "name": "EUA",
+      "continent": "AME",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/USA.png",
+      "total_medals": 104,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 35, "silver": 30, "bronze": 25 },
+            { "name": "Swimming", "gold": 30, "silver": 28, "bronze": 20 },
+            { "name": "Basketball", "gold": 10, "silver": 5, "bronze": 2 }
+          ],
+          "total": { "gold": 75, "silver": 63, "bronze": 47 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 5, "silver": 3, "bronze": 2 },
+            { "name": "Swimming", "gold": 4, "silver": 3, "bronze": 4 },
+            { "name": "Basketball", "gold": 1, "silver": 2, "bronze": 0 }
+          ],
+          "total": { "gold": 10, "silver": 8, "bronze": 6 }
+        }
+      }
+    },
+    {
+      "id": "AUS",
+      "name": "Austrália",
+      "continent": "OCE",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AUS.png",
+      "total_medals": 47,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Swimming", "gold": 20, "silver": 10, "bronze": 5 },
+            { "name": "Athletics", "gold": 5, "silver": 3, "bronze": 5 },
+            { "name": "Rowing", "gold": 3, "silver": 2, "bronze": 2 }
+          ],
+          "total": { "gold": 28, "silver": 15, "bronze": 12 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Swimming", "gold": 3, "silver": 2, "bronze": 1 },
+            { "name": "Athletics", "gold": 2, "silver": 1, "bronze": 0 }
+          ],
+          "total": { "gold": 5, "silver": 3, "bronze": 1 }
+        }
+      }
+    },
+    {
+      "id": "FRA",
+      "name": "França",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/FRA.png",
+      "total_medals": 55,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Fencing", "gold": 10, "silver": 8, "bronze": 6 },
+            { "name": "Judo", "gold": 7, "silver": 5, "bronze": 7 },
+            { "name": "Cycling", "gold": 4, "silver": 3, "bronze": 3 }
+          ],
+          "total": { "gold": 21, "silver": 16, "bronze": 16 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Fencing", "gold": 3, "silver": 2, "bronze": 2 },
+            { "name": "Judo", "gold": 2, "silver": 1, "bronze": 2 }
+          ],
+          "total": { "gold": 5, "silver": 3, "bronze": 4 }
+        }
+      }
+    },
+    {
+      "id": "GBR",
+      "name": "Grã-Bretanha",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GBR.png",
+      "total_medals": 52,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Rowing", "gold": 10, "silver": 7, "bronze": 5 },
+            { "name": "Cycling", "gold": 8, "silver": 5, "bronze": 6 },
+            { "name": "Athletics", "gold": 6, "silver": 5, "bronze": 7 }
+          ],
+          "total": { "gold": 24, "silver": 17, "bronze": 18 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Rowing", "gold": 3, "silver": 2, "bronze": 1 },
+            { "name": "Cycling", "gold": 2, "silver": 2, "bronze": 1 }
+          ],
+          "total": { "gold": 5, "silver": 4, "bronze": 2 }
+        }
+      }
+    },
+    {
+      "id": "JPN",
+      "name": "Japão",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JPN.png",
+      "total_medals": 34,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Judo", "gold": 15, "silver": 5, "bronze": 6 },
+            { "name": "Wrestling", "gold": 8, "silver": 2, "bronze": 3 },
+            { "name": "Swimming", "gold": 3, "silver": 1, "bronze": 4 }
+          ],
+          "total": { "gold": 26, "silver": 8, "bronze": 13 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Judo", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Wrestling", "gold": 2, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 4, "silver": 1, "bronze": 2 }
+        }
+      }
+    },
+    {
+      "id": "KOR",
+      "name": "República da Coréia",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KOR.png",
+      "total_medals": 28,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Archery", "gold": 10, "silver": 4, "bronze": 3 },
+            { "name": "Taekwondo", "gold": 5, "silver": 3, "bronze": 4 },
+            { "name": "Judo", "gold": 3, "silver": 1, "bronze": 2 }
+          ],
+          "total": { "gold": 18, "silver": 8, "bronze": 9 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Archery", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Taekwondo", "gold": 1, "silver": 1, "bronze": 0 }
+          ],
+          "total": { "gold": 3, "silver": 2, "bronze": 1 }
+        }
+      }
+    },
+    {
+      "id": "GER",
+      "name": "Alemanha",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GER.png",
+      "total_medals": 27,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 10, "silver": 7, "bronze": 5 },
+            { "name": "Cycling", "gold": 7, "silver": 1, "bronze": 2 },
+            { "name": "Equestrian", "gold": 2, "silver": 1, "bronze": 0 }
+          ],
+          "total": { "gold": 19, "silver": 9, "bronze": 7 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Cycling", "gold": 1, "silver": 1, "bronze": 1 }
+          ],
+          "total": { "gold": 3, "silver": 2, "bronze": 2 }
+        }
+      }
+    },
+    {
+      "id": "NED",
+      "name": "Países Baixos",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NED.png",
+      "total_medals": 25,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Cycling", "gold": 8, "silver": 3, "bronze": 4 },
+            { "name": "Speed Skating", "gold": 3, "silver": 2, "bronze": 2 },
+            { "name": "Hockey", "gold": 2, "silver": 1, "bronze": 0 }
+          ],
+          "total": { "gold": 13, "silver": 6, "bronze": 6 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Cycling", "gold": 2, "silver": 1, "bronze": 2 },
+            { "name": "Speed Skating", "gold": 1, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 3, "silver": 1, "bronze": 3 }
+        }
+      }
+    },
+    {
+      "id": "ITA",
+      "name": "Itália",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ITA.png",
+      "total_medals": 32,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Fencing", "gold": 10, "silver": 5, "bronze": 4 },
+            { "name": "Cycling", "gold": 8, "silver": 6, "bronze": 5 },
+            { "name": "Athletics", "gold": 6, "silver": 0, "bronze": 2 }
+          ],
+          "total": { "gold": 24, "silver": 11, "bronze": 11 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Fencing", "gold": 2, "silver": 2, "bronze": 1 },
+            { "name": "Cycling", "gold": 2, "silver": 1, "bronze": 1 }
+          ],
+          "total": { "gold": 4, "silver": 3, "bronze": 2 }
+        }
+      }
+    },
+    {
+      "id": "NZL",
+      "name": "Nova Zelândia",
+      "continent": "OCE",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/NZL.png",
+      "total_medals": 14,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Rowing", "gold": 6, "silver": 4, "bronze": 2 },
+            { "name": "Sailing", "gold": 2, "silver": 2, "bronze": 0 },
+            { "name": "Athletics", "gold": 2, "silver": 0, "bronze": 2 }
+          ],
+          "total": { "gold": 10, "silver": 6, "bronze": 4 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Rowing", "gold": 2, "silver": 0, "bronze": 1 },
+            { "name": "Sailing", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 3, "silver": 0, "bronze": 1 }
+        }
+      }
+    },
+    {
+      "id": "CAN",
+      "name": "Canadá",
+      "continent": "AME",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CAN.png",
+      "total_medals": 22,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Ice Hockey", "gold": 5, "silver": 3, "bronze": 2 },
+            { "name": "Athletics", "gold": 3, "silver": 2, "bronze": 3 },
+            { "name": "Swimming", "gold": 2, "silver": 0, "bronze": 2 }
+          ],
+          "total": { "gold": 10, "silver": 5, "bronze": 7 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Ice Hockey", "gold": 2, "silver": 1, "bronze": 0 },
+            { "name": "Athletics", "gold": 1, "silver": 1, "bronze": 0 }
+          ],
+          "total": { "gold": 3, "silver": 2, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "HUN",
+      "name": "Hungria",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/HUN.png",
+      "total_medals": 14,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Water Polo", "gold": 6, "silver": 3, "bronze": 2 },
+            { "name": "Fencing", "gold": 4, "silver": 2, "bronze": 2 },
+            { "name": "Swimming", "gold": 2, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 12, "silver": 5, "bronze": 5 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Water Polo", "gold": 2, "silver": 0, "bronze": 0 },
+            { "name": "Fencing", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 3, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "IRL",
+      "name": "Irlanda",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRL.png",
+      "total_medals": 7,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 3, "silver": 0, "bronze": 2 },
+            { "name": "Rowing", "gold": 1, "silver": 0, "bronze": 1 },
+            { "name": "Athletics", "gold": 0, "silver": 0, "bronze": 2 }
+          ],
+          "total": { "gold": 4, "silver": 0, "bronze": 5 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 1, "silver": 0, "bronze": 1 },
+            { "name": "Rowing", "gold": 0, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 1, "silver": 0, "bronze": 1 }
+        }
+      }
+    },
+    {
+      "id": "UKR",
+      "name": "Ucrânia",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/UKR.png",
+      "total_medals": 11,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 4, "silver": 2, "bronze": 2 },
+            { "name": "Wrestling", "gold": 3, "silver": 1, "bronze": 2 },
+            { "name": "Gymnastics", "gold": 1, "silver": 1, "bronze": 0 }
+          ],
+          "total": { "gold": 8, "silver": 4, "bronze": 4 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 1, "silver": 0, "bronze": 1 },
+            { "name": "Wrestling", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 1 }
+        }
+      }
+    },
+    {
+      "id": "SWE",
+      "name": "Suécia",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SWE.png",
+      "total_medals": 10,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Wrestling", "gold": 5, "silver": 2, "bronze": 1 },
+            { "name": "Athletics", "gold": 3, "silver": 2, "bronze": 2 },
+            { "name": "Shooting", "gold": 1, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 9, "silver": 4, "bronze": 4 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Wrestling", "gold": 1, "silver": 0, "bronze": 1 },
+            { "name": "Athletics", "gold": 0, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 1, "silver": 0, "bronze": 2 }
+        }
+      }
+    },
+    {
+      "id": "ROU",
+      "name": "Romênia",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ROU.png",
+      "total_medals": 8,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Gymnastics", "gold": 4, "silver": 2, "bronze": 1 },
+            { "name": "Rowing", "gold": 3, "silver": 1, "bronze": 0 },
+            { "name": "Fencing", "gold": 1, "silver": 1, "bronze": 0 }
+          ],
+          "total": { "gold": 8, "silver": 4, "bronze": 1 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Gymnastics", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Rowing", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "UZB",
+      "name": "Uzbequistão",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/UZB.png",
+      "total_medals": 5,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 3, "silver": 0, "bronze": 2 },
+            { "name": "Wrestling", "gold": 2, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 5, "silver": 0, "bronze": 2 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 1, "silver": 0, "bronze": 1 },
+            { "name": "Wrestling", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 1 }
+        }
+      }
+    },
+    {
+      "id": "BRA",
+      "name": "Brasil",
+      "continent": "AME",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BRA.png",
+      "total_medals": 16,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Football", "gold": 5, "silver": 3, "bronze": 2 },
+            { "name": "Volleyball", "gold": 3, "silver": 1, "bronze": 3 },
+            { "name": "Athletics", "gold": 2, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 10, "silver": 4, "bronze": 6 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Football", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Volleyball", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "ESP",
+      "name": "Espanha",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ESP.png",
+      "total_medals": 13,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Tennis", "gold": 5, "silver": 3, "bronze": 3 },
+            { "name": "Basketball", "gold": 4, "silver": 2, "bronze": 1 },
+            { "name": "Athletics", "gold": 2, "silver": 1, "bronze": 1 }
+          ],
+          "total": { "gold": 11, "silver": 6, "bronze": 5 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Tennis", "gold": 1, "silver": 1, "bronze": 0 },
+            { "name": "Basketball", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 1, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "IRI",
+      "name": "Repúb. Islâmica Irã",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRI.png",
+      "total_medals": 6,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Wrestling", "gold": 3, "silver": 2, "bronze": 1 },
+            { "name": "Taekwondo", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Weightlifting", "gold": 1, "silver": 1, "bronze": 1 }
+          ],
+          "total": { "gold": 6, "silver": 4, "bronze": 3 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Wrestling", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Taekwondo", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "BUL",
+      "name": "Bulgária",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BUL.png",
+      "total_medals": 6,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Wrestling", "gold": 3, "silver": 2, "bronze": 1 },
+            { "name": "Weightlifting", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Boxing", "gold": 1, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 6, "silver": 3, "bronze": 3 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Wrestling", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Weightlifting", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "CRO",
+      "name": "Croácia",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CRO.png",
+      "total_medals": 6,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Rowing", "gold": 2, "silver": 1, "bronze": 2 },
+            { "name": "Water Polo", "gold": 2, "silver": 1, "bronze": 0 },
+            { "name": "Shooting", "gold": 1, "silver": 1, "bronze": 1 }
+          ],
+          "total": { "gold": 5, "silver": 3, "bronze": 3 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Rowing", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Water Polo", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "CUB",
+      "name": "Cuba",
+      "continent": "AME",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CUB.png",
+      "total_medals": 6,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 4, "silver": 1, "bronze": 1 },
+            { "name": "Athletics", "gold": 2, "silver": 0, "bronze": 2 },
+            { "name": "Wrestling", "gold": 1, "silver": 1, "bronze": 1 }
+          ],
+          "total": { "gold": 7, "silver": 2, "bronze": 4 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "AZE",
+      "name": "Azerbaijão",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AZE.png",
+      "total_medals": 4,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Wrestling", "gold": 3, "silver": 1, "bronze": 0 },
+            { "name": "Judo", "gold": 1, "silver": 0, "bronze": 1 },
+            { "name": "Weightlifting", "gold": 0, "silver": 0, "bronze": 2 }
+          ],
+          "total": { "gold": 4, "silver": 1, "bronze": 3 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Wrestling", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Judo", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "BEL",
+      "name": "Bélgica",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BEL.png",
+      "total_medals": 6,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Cycling", "gold": 3, "silver": 1, "bronze": 1 },
+            { "name": "Hockey", "gold": 2, "silver": 0, "bronze": 1 },
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 6, "silver": 1, "bronze": 3 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Hockey", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "AUT",
+      "name": "Áustria",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/AUT.png",
+      "total_medals": 4,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Skiing", "gold": 2, "silver": 0, "bronze": 1 },
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 4, "silver": 0, "bronze": 2 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Skiing", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "PHI",
+      "name": "Filipinas",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PHI.png",
+      "total_medals": 4,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Weightlifting", "gold": 2, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 4, "silver": 1, "bronze": 1 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Weightlifting", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "HKG",
+      "name": "Hong Kong, China",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/HKG.png",
+      "total_medals": 4,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Badminton", "gold": 2, "silver": 0, "bronze": 1 },
+            { "name": "Cycling", "gold": 2, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 4, "silver": 0, "bronze": 2 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Badminton", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "INA",
+      "name": "Indonésia",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/INA.png",
+      "total_medals": 3,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Badminton", "gold": 3, "silver": 0, "bronze": 0 },
+            { "name": "Weightlifting", "gold": 2, "silver": 1, "bronze": 1 }
+          ],
+          "total": { "gold": 5, "silver": 1, "bronze": 1 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Badminton", "gold": 2, "silver": 0, "bronze": 0 },
+            { "name": "Weightlifting", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 3, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "CZE",
+      "name": "Tchéquia",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CZE.png",
+      "total_medals": 3,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Rowing", "gold": 2, "silver": 0, "bronze": 0 },
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 3, "silver": 0, "bronze": 1 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Rowing", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "SRB",
+      "name": "Sérvia",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SRB.png",
+      "total_medals": 2,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Basketball", "gold": 2, "silver": 0, "bronze": 1 },
+            { "name": "Wrestling", "gold": 1, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 3, "silver": 0, "bronze": 2 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Basketball", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Wrestling", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "ISR",
+      "name": "Israel",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ISR.png",
+      "total_medals": 6,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Judo", "gold": 2, "silver": 3, "bronze": 1 },
+            { "name": "Gymnastics", "gold": 1, "silver": 1, "bronze": 2 },
+            { "name": "Athletics", "gold": 0, "silver": 0, "bronze": 2 }
+          ],
+          "total": { "gold": 3, "silver": 4, "bronze": 5 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Judo", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Gymnastics", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "KAZ",
+      "name": "Cazaquistão",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KAZ.png",
+      "total_medals": 7,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 3, "silver": 2, "bronze": 2 },
+            { "name": "Wrestling", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Weightlifting", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 6, "silver": 3, "bronze": 3 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 1, "silver": 0, "bronze": 1 },
+            { "name": "Wrestling", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 1 }
+        }
+      }
+    },
+    {
+      "id": "JAM",
+      "name": "Jamaica",
+      "continent": "AME",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/JAM.png",
+      "total_medals": 6,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 5, "silver": 3, "bronze": 2 },
+            { "name": "Boxing", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 6, "silver": 3, "bronze": 2 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Boxing", "gold": 0, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 1, "silver": 0, "bronze": 1 }
+        }
+      }
+    },
+    {
+      "id": "THA",
+      "name": "Tailândia",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/THA.png",
+      "total_medals": 6,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Weightlifting", "gold": 3, "silver": 1, "bronze": 2 }
+          ],
+          "total": { "gold": 5, "silver": 2, "bronze": 3 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Boxing", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Weightlifting", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "SUI",
+      "name": "Suíça",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SUI.png",
+      "total_medals": 7,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Cycling", "gold": 3, "silver": 2, "bronze": 2 },
+            { "name": "Skiing", "gold": 2, "silver": 1, "bronze": 0 },
+            { "name": "Athletics", "gold": 1, "silver": 1, "bronze": 0 }
+          ],
+          "total": { "gold": 6, "silver": 4, "bronze": 2 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Skiing", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "DEN",
+      "name": "Dinamarca",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/DEN.png",
+      "total_medals": 4,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Cycling", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Sailing", "gold": 1, "silver": 0, "bronze": 1 },
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 4, "silver": 1, "bronze": 2 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Sailing", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "GEO",
+      "name": "Geórgia",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GEO.png",
+      "total_medals": 4,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Wrestling", "gold": 3, "silver": 2, "bronze": 1 },
+            { "name": "Judo", "gold": 1, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 4, "silver": 2, "bronze": 2 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Wrestling", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Judo", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "ECU",
+      "name": "Equador",
+      "continent": "AME",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ECU.png",
+      "total_medals": 3,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Cycling", "gold": 2, "silver": 1, "bronze": 0 },
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 3, "silver": 1, "bronze": 0 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "GRE",
+      "name": "Grécia",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GRE.png",
+      "total_medals": 7,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 3, "silver": 2, "bronze": 1 },
+            { "name": "Weightlifting", "gold": 2, "silver": 1, "bronze": 1 },
+            { "name": "Shooting", "gold": 1, "silver": 0, "bronze": 2 }
+          ],
+          "total": { "gold": 6, "silver": 3, "bronze": 4 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 1 },
+            { "name": "Weightlifting", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 1 }
+        }
+      }
+    },
+    {
+      "id": "POL",
+      "name": "Polônia",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/POL.png",
+      "total_medals": 6,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 4, "silver": 1, "bronze": 2 },
+            { "name": "Weightlifting", "gold": 2, "silver": 1, "bronze": 0 },
+            { "name": "Wrestling", "gold": 1, "silver": 1, "bronze": 1 }
+          ],
+          "total": { "gold": 7, "silver": 3, "bronze": 3 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Weightlifting", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "KEN",
+      "name": "Quênia",
+      "continent": "AFR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/KEN.png",
+      "total_medals": 5,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 5, "silver": 1, "bronze": 3 }
+          ],
+          "total": { "gold": 5, "silver": 1, "bronze": 3 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 1, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "RSA",
+      "name": "África do Sul",
+      "continent": "AFR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/RSA.png",
+      "total_medals": 4,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Rugby", "gold": 3, "silver": 1, "bronze": 1 },
+            { "name": "Athletics", "gold": 2, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 5, "silver": 1, "bronze": 1 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Rugby", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "ARG",
+      "name": "Argentina",
+      "continent": "AME",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ARG.png",
+      "total_medals": 3,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Football", "gold": 2, "silver": 1, "bronze": 0 },
+            { "name": "Hockey", "gold": 1, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 3, "silver": 1, "bronze": 1 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Football", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Hockey", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "CHI",
+      "name": "Chile",
+      "continent": "AME",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHI.png",
+      "total_medals": 2,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Tennis", "gold": 2, "silver": 1, "bronze": 0 },
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 1 }
+          ],
+          "total": { "gold": 3, "silver": 1, "bronze": 1 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Tennis", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "SLO",
+      "name": "Eslovênia",
+      "continent": "EUR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SLO.png",
+      "total_medals": 2,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Rowing", "gold": 1, "silver": 1, "bronze": 0 },
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 1, "bronze": 0 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Rowing", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Cycling", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "LCA",
+      "name": "Santa Lúcia",
+      "continent": "AME",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LCA.png",
+      "total_medals": 2,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 1, "silver": 1, "bronze": 0 }
+          ],
+          "total": { "gold": 1, "silver": 1, "bronze": 0 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 1, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "UGA",
+      "name": "Uganda",
+      "continent": "AFR",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/UGA.png",
+      "total_medals": 2,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 1, "silver": 1, "bronze": 0 }
+          ],
+          "total": { "gold": 1, "silver": 1, "bronze": 0 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 1, "silver": 0, "bronze": 0 }
+        }
+      }
+    },
+    {
+      "id": "TPE",
+      "name": "Chinese Taipei",
+      "continent": "ASI",
+      "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TPE.png",
+      "total_medals": 6,
+      "medals_by_sport": {
+        "until_2024": {
+          "sports": [
+            { "name": "Taekwondo", "gold": 4, "silver": 1, "bronze": 1 },
+            { "name": "Badminton", "gold": 2, "silver": 0, "bronze": 2 }
+          ],
+          "total": { "gold": 6, "silver": 1, "bronze": 3 }
+        },
+        "in_2024": {
+          "sports": [
+            { "name": "Taekwondo", "gold": 1, "silver": 0, "bronze": 0 },
+            { "name": "Badminton", "gold": 1, "silver": 0, "bronze": 0 }
+          ],
+          "total": { "gold": 2, "silver": 0, "bronze": 0 }
+        }
+      }
+    }
+  ]
+}
